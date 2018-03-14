@@ -304,6 +304,10 @@ select, input[type="file"] {
     background-color: #2b2b2b
 }
 
+.code{
+    font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace!important;
+}
+
 .label {
     background: 0;
     border: 1px solid #e78170;
@@ -701,7 +705,7 @@ body {
 }
 
 .post-content {
-    padding-bottom: 10px
+    padding-bottom: 50px
 }
 
 .post-tool {
@@ -733,7 +737,7 @@ body {
 
 .post-tags a {
     padding: 0 5px;
-    display: inline-block
+    display: inline-block;
 }
 
 .post-tags a:hover {
@@ -1398,7 +1402,8 @@ body.night-mode, .night-mode .btn, body.night-mode a, .night-mode .nav-user a, #
 }
 
 .markdown-body h3 {
-    font-size: 1.25em
+    font-size: 1.25em;
+    color: #555;
 }
 
 .markdown-body h4 {
