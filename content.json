@@ -7,19 +7,36 @@
     "url": "http://yoursite.com"
   },
   "pages": [],
-  "posts": [{
-    "title": "flexbox布局速记整理",
-    "slug": "flexbox布局速记整理",
-    "date": "2018年3月14日15:16:18",
-    "updated": "2018年3月14日15:16:18Z",
-    "comments": true,
-    "path": "2018/03/13/flexbox布局速记整理/",
-    "link": "",
-    "permalink": "http://yoursite.com/2018/03/13/flexbox布局速记整理/",
-    "excerpt": "",
-    "text": "flexbox布局速记整理",
-    "categories": [],
-    "tags": [],
-    "keywords": []
-  }]
+  "posts": [
+    {
+      "title": "flexbox布局速记整理",
+      "slug": "flexbox布局速记整理",
+      "date": "2018年3月14日15:16:18",
+      "updated": "2018年3月14日15:16:18",
+      "comments": true,
+      "path": "xiaoxuesheng/2018/03/13/flexbox布局速记整理/",
+      "link": "",
+      "permalink": "https://bluesnn.github.io/xiaoxuesheng/2018/03/13/flexbox-layout/",
+      "excerpt": "",
+      "text": "flexbox布局速记整理",
+      "categories": [],
+      "tags": [],
+      "keywords": []
+    },
+    {
+      "title": "如何做到前端工程化",
+      "slug": "如何做到前端工程化",
+      "date": "2018年3月14日15:16:18",
+      "updated": "2018年3月14日15:16:18",
+      "comments": true,
+      "path": "xiaoxuesheng/2018/03/14/如何做到前端工程化/",
+      "link": "",
+      "permalink": "https://bluesnn.github.io/xiaoxuesheng/2018/03/14/如何做到前端工程化/",
+      "excerpt": "",
+      "text": "如何做到前端工程化",
+      "categories": [],
+      "tags": [],
+      "keywords": []
+    }
+  ]
 }
