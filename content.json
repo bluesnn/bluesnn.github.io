@@ -14,9 +14,9 @@
       "date": "2018年3月14日15:16:18",
       "updated": "2018年3月14日15:16:18",
       "comments": true,
-      "path": "xiaoxuesheng/2018/03/13/flexbox布局速记整理/",
+      "path": "2018/03/13/flexbox布局速记整理",
       "link": "",
-      "permalink": "https://bluesnn.github.io/xiaoxuesheng/2018/03/13/flexbox-layout/",
+      "permalink": "https://bluesnn.github.io/2018/03/13/flexbox布局速记整理",
       "excerpt": "",
       "text": "flexbox布局速记整理",
       "categories": [],
@@ -25,18 +25,8 @@
     },
     {
       "title": "如何做到前端工程化",
-      "slug": "如何做到前端工程化",
-      "date": "2018年3月14日15:16:18",
-      "updated": "2018年3月14日15:16:18",
-      "comments": true,
-      "path": "xiaoxuesheng/2018/03/14/如何做到前端工程化/",
-      "link": "",
-      "permalink": "https://bluesnn.github.io/xiaoxuesheng/2018/03/14/如何做到前端工程化/",
-      "excerpt": "",
-      "text": "有些的web应用，一般需要几十个，上百人共同开发维护，前端页面也颇具规模，工程量非常庞大，这就要求我们从软件功能的角度来思考前端开发，用工程化的手段来解决前端开发中遇到的各种问题，提升团队的开发效率，这就是所谓的前端工程化。",
-      "categories": [],
-      "tags": [],
-      "keywords": []
+      "path": "2018/03/14/如何做到前端工程化",
+      "text": "有些的web应用，一般需要几十个，上百人共同开发维护，前端页面也颇具规模，工程量非常庞大，这就要求我们从软件功能的角度来思考前端开发，用工程化的手段来解决前端开发中遇到的各种问题，提升团队的开发效率，这就是所谓的前端工程化。"
     }
   ]
 }
